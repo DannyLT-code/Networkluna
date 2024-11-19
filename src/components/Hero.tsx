@@ -10,7 +10,7 @@ const Hero = () => {
                     <p className="pr-3 py-4">I am a:</p>
                    <Typewriter
                     options={{
-                        strings: ['CS major', 'BI Developer', 'Web developer','Problem solver', 'Fast learner', 'Gaming legend'],
+                        strings: ['CS major', 'UI/UX developer', 'Frontend developer','Problem solver', 'Fast learner', 'Gaming legend'],
                         delay: 75,
                         autoStart: true,
                         loop: true,
@@ -18,7 +18,7 @@ const Hero = () => {
                    />
                 </div>
                 <p className="md:text-2xl text-xl font-bold text-gray-400">Full-stack developer with a passion for learning & creating.</p>
-                <button className="bg-[#7248f0] w-[200px] rounded-md font-medium my-6 mx-auto py-3">View my work</button>
+                <button className="bg-[#7248f0] w-[200px] rounded-md font-medium my-6 mx-auto py-3">View my work (soon)</button>
             </div>
         </div>
     )
